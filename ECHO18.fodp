@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.presentation">
- <office:meta><meta:creation-date>2018-05-14T17:42:50.393816663</meta:creation-date><meta:editing-duration>PT50M29S</meta:editing-duration><meta:editing-cycles>15</meta:editing-cycles><meta:generator>LibreOffice/6.0.4.1$Linux_X86_64 LibreOffice_project/00m0$Build-1</meta:generator><dc:title>Vivid</dc:title><dc:date>2018-05-14T20:45:38.640373431</dc:date><meta:document-statistic meta:object-count="65"/></office:meta>
+ <office:meta><meta:creation-date>2018-05-14T17:42:50.393816663</meta:creation-date><meta:editing-duration>PT1H9M11S</meta:editing-duration><meta:editing-cycles>27</meta:editing-cycles><meta:generator>LibreOffice/6.0.4.2$Linux_X86_64 LibreOffice_project/9b0d9b32d5dcda91d2f1a96dc04c645c450872bf</meta:generator><dc:title>Vivid</dc:title><dc:date>2018-05-14T21:36:14.962754705</dc:date><meta:document-statistic meta:object-count="94"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="VisibleAreaTop" config:type="int">-307</config:config-item>
-   <config:config-item config:name="VisibleAreaLeft" config:type="int">-4486</config:config-item>
-   <config:config-item config:name="VisibleAreaWidth" config:type="int">42755</config:config-item>
-   <config:config-item config:name="VisibleAreaHeight" config:type="int">21857</config:config-item>
+   <config:config-item config:name="VisibleAreaTop" config:type="int">-311</config:config-item>
+   <config:config-item config:name="VisibleAreaLeft" config:type="int">-1307</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">36046</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">21665</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
@@ -29,16 +29,16 @@
      <config:config-item config:name="NoColors" config:type="boolean">true</config:config-item>
      <config:config-item config:name="RulerIsVisible" config:type="boolean">false</config:config-item>
      <config:config-item config:name="PageKind" config:type="short">0</config:config-item>
-     <config:config-item config:name="SelectedPage" config:type="short">2</config:config-item>
+     <config:config-item config:name="SelectedPage" config:type="short">0</config:config-item>
      <config:config-item config:name="IsLayerMode" config:type="boolean">false</config:config-item>
      <config:config-item config:name="IsDoubleClickTextEdit" config:type="boolean">true</config:config-item>
      <config:config-item config:name="IsClickChangeRotation" config:type="boolean">true</config:config-item>
      <config:config-item config:name="SlidesPerRow" config:type="short">4</config:config-item>
      <config:config-item config:name="EditMode" config:type="int">0</config:config-item>
-     <config:config-item config:name="VisibleAreaTop" config:type="int">-1240</config:config-item>
-     <config:config-item config:name="VisibleAreaLeft" config:type="int">-496</config:config-item>
-     <config:config-item config:name="VisibleAreaWidth" config:type="int">34480</config:config-item>
-     <config:config-item config:name="VisibleAreaHeight" config:type="int">23565</config:config-item>
+     <config:config-item config:name="VisibleAreaTop" config:type="int">-1940</config:config-item>
+     <config:config-item config:name="VisibleAreaLeft" config:type="int">-485</config:config-item>
+     <config:config-item config:name="VisibleAreaWidth" config:type="int">34661</config:config-item>
+     <config:config-item config:name="VisibleAreaHeight" config:type="int">25092</config:config-item>
      <config:config-item config:name="GridCoarseWidth" config:type="int">2000</config:config-item>
      <config:config-item config:name="GridCoarseHeight" config:type="int">2000</config:config-item>
      <config:config-item config:name="GridFineWidth" config:type="int">200</config:config-item>
@@ -118,9 +118,7 @@
   <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
   <style:font-face style:name="Liberation Serif" svg:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
   <style:font-face style:name="DejaVu Sans" svg:font-family="&apos;DejaVu Sans&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
-  <style:font-face style:name="Noto Sans Devanagari" svg:font-family="&apos;Noto Sans Devanagari&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
   <style:font-face style:name="Noto Sans Regular" svg:font-family="&apos;Noto Sans Regular&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
-  <style:font-face style:name="WenQuanYi Zen Hei" svg:font-family="&apos;WenQuanYi Zen Hei&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
  </office:font-face-decls>
  <office:styles>
   <draw:gradient draw:name="Gradient_20_15" draw:display-name="Gradient 15" draw:style="linear" draw:start-color="#808080" draw:end-color="#ffffff" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="0" draw:border="0%"/>
@@ -3124,7 +3122,7 @@
   <style:style style:name="objectwithoutfill" style:family="graphic" style:parent-style-name="standard">
    <style:graphic-properties draw:stroke="solid" svg:stroke-width="0.1cm" svg:stroke-color="#04617b" draw:marker-start-width="0.36cm" draw:marker-end-width="0.36cm" draw:fill="none"/>
   </style:style>
-  <style:style style:name="Object_20_with_20_no_20_fill_20_and_20_no_20_line" style:display-name="Object with no fill and no line" style:family="graphic" style:parent-style-name="standard">
+  <style:style style:name="Objekt_20_ohne_20_Füllung_20_und_20_Linie" style:display-name="Objekt ohne Füllung und Linie" style:family="graphic" style:parent-style-name="standard">
    <style:graphic-properties draw:stroke="none" draw:fill="none"/>
   </style:style>
   <style:style style:name="text" style:family="graphic" style:parent-style-name="standard">
@@ -3176,7 +3174,7 @@
    <style:graphic-properties draw:stroke="solid" svg:stroke-color="#000000" draw:marker-start="Arrow" draw:marker-start-width="0.2cm" draw:marker-end="Arrow" draw:marker-end-width="0.2cm" draw:fill="none" draw:show-unit="true"/>
    <style:text-properties fo:font-size="12pt"/>
   </style:style>
-  <style:style style:name="Objekt_20_ohne_20_Füllung_20_und_20_Linie" style:display-name="Objekt ohne Füllung und Linie" style:family="graphic" style:parent-style-name="standard">
+  <style:style style:name="Object_20_with_20_no_20_fill_20_and_20_no_20_line" style:display-name="Object with no fill and no line" style:family="graphic" style:parent-style-name="standard">
    <style:graphic-properties draw:stroke="none" draw:fill="none"/>
   </style:style>
   <style:style style:name="Vivid-background" style:family="presentation">
@@ -3853,10 +3851,10 @@
    <style:graphic-properties fo:min-height="12.754cm"/>
   </style:style>
   <style:style style:name="pr14" style:family="presentation" style:parent-style-name="Vivid1-notes">
-   <style:graphic-properties draw:fill-color="#ffffff" draw:auto-grow-height="true" fo:min-height="12.464cm"/>
+   <style:graphic-properties draw:fill-color="#ffffff" fo:min-height="12.464cm"/>
   </style:style>
   <style:style style:name="pr15" style:family="presentation" style:parent-style-name="Vivid1-notes">
-   <style:graphic-properties draw:fill-color="#ffffff" fo:min-height="12.464cm"/>
+   <style:graphic-properties draw:fill-color="#ffffff" draw:auto-grow-height="true" fo:min-height="12.464cm"/>
   </style:style>
   <style:style style:name="P1" style:family="paragraph">
    <style:text-properties fo:font-size="14pt"/>
@@ -3886,19 +3884,42 @@
   </style:style>
   <style:style style:name="P8" style:family="paragraph">
    <loext:graphic-properties draw:fill-color="#ffffff"/>
-   <style:text-properties fo:font-size="19.7999992370605pt"/>
+   <style:text-properties fo:font-size="20pt"/>
   </style:style>
   <style:style style:name="P9" style:family="paragraph">
    <loext:graphic-properties draw:fill-color="#ffffff"/>
+   <style:text-properties fo:font-size="19.7999992370605pt"/>
   </style:style>
   <style:style style:name="P10" style:family="paragraph">
-   <style:text-properties fo:font-size="48pt" style:font-size-asian="48pt" style:font-size-complex="48pt"/>
+   <style:text-properties fo:font-size="36pt" style:font-size-asian="36pt" style:font-size-complex="36pt"/>
+  </style:style>
+  <style:style style:name="P11" style:family="paragraph">
+   <loext:graphic-properties draw:fill-color="#ffffff"/>
+  </style:style>
+  <style:style style:name="P12" style:family="paragraph">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm"/>
+  </style:style>
+  <style:style style:name="P13" style:family="paragraph">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.5cm"/>
+  </style:style>
+  <style:style style:name="P14" style:family="paragraph">
+   <style:text-properties fo:font-size="24pt" style:font-size-asian="24pt" style:font-size-complex="24pt"/>
+  </style:style>
+  <style:style style:name="P15" style:family="paragraph">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.6cm"/>
+   <style:text-properties fo:font-size="24pt" style:font-size-asian="24pt" style:font-size-complex="24pt"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties fo:font-size="14pt"/>
   </style:style>
   <style:style style:name="T2" style:family="text">
-   <style:text-properties fo:font-size="48pt" style:font-size-asian="48pt" style:font-size-complex="48pt"/>
+   <style:text-properties fo:font-size="32pt" style:font-size-asian="32pt" style:font-size-complex="32pt"/>
+  </style:style>
+  <style:style style:name="T3" style:family="text">
+   <style:text-properties fo:font-size="36pt" style:font-size-asian="36pt" style:font-size-complex="36pt"/>
+  </style:style>
+  <style:style style:name="T4" style:family="text">
+   <style:text-properties fo:font-size="24pt" style:font-size-asian="24pt" style:font-size-complex="24pt"/>
   </style:style>
   <text:list-style style:name="L1">
    <text:list-level-style-bullet text:level="1" text:bullet-char="●">
@@ -4122,22 +4143,22 @@
   <style:handout-master presentation:presentation-page-layout-name="AL0T24" style:page-layout-name="PM0" draw:style-name="dp4">
    <draw:frame draw:style-name="gr1" draw:text-style-name="P2" draw:layer="backgroundobjects" svg:width="9.369cm" svg:height="1.396cm" svg:x="0cm" svg:y="0cm" presentation:class="header">
     <draw:text-box>
-     <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><presentation:header/></text:p>
+     <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><presentation:header/></text:p>
     </draw:text-box>
    </draw:frame>
    <draw:frame draw:style-name="gr1" draw:text-style-name="P4" draw:layer="backgroundobjects" svg:width="9.369cm" svg:height="1.396cm" svg:x="12.22cm" svg:y="0cm" presentation:class="date-time">
     <draw:text-box>
-     <text:p text:style-name="P3"><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><presentation:date-time/></text:p>
+     <text:p text:style-name="P3"><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><presentation:date-time/></text:p>
     </draw:text-box>
    </draw:frame>
    <draw:frame draw:style-name="gr2" draw:text-style-name="P2" draw:layer="backgroundobjects" svg:width="9.369cm" svg:height="1.396cm" svg:x="0cm" svg:y="26.543cm" presentation:class="footer">
     <draw:text-box>
-     <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><presentation:footer/></text:p>
+     <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><presentation:footer/></text:p>
     </draw:text-box>
    </draw:frame>
    <draw:frame draw:style-name="gr2" draw:text-style-name="P4" draw:layer="backgroundobjects" svg:width="9.369cm" svg:height="1.396cm" svg:x="12.22cm" svg:y="26.543cm" presentation:class="page-number">
     <draw:text-box>
-     <text:p text:style-name="P3"><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:page-number>&lt;number&gt;</text:page-number></text:p>
+     <text:p text:style-name="P3"><text:span text:style-name="T1"><text:page-number>&lt;Foliennummer&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;Foliennummer&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;Foliennummer&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;Foliennummer&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;Foliennummer&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;Foliennummer&gt;</text:page-number></text:span><text:page-number>&lt;Foliennummer&gt;</text:page-number></text:p>
     </draw:text-box>
    </draw:frame>
    <draw:page-thumbnail draw:layer="backgroundobjects" svg:width="9.294cm" svg:height="5.855cm" svg:x="1cm" svg:y="2.993cm"/>
@@ -4147,8 +4168,26 @@
   <style:master-page style:name="Vivid" style:page-layout-name="PM1" draw:style-name="dp1">
    <draw:frame presentation:style-name="pr1" draw:layer="backgroundobjects" svg:width="7.765cm" svg:height="1.449cm" svg:x="1.564cm" svg:y="19.131cm" presentation:class="date-time">
     <draw:text-box>
-     <text:p><presentation:date-time/><presentation:date-time/><presentation:date-time/><presentation:date-time/></text:p>
+     <text:p><presentation:date-time/><presentation:date-time/><presentation:date-time/><presentation:date-time/><presentation:date-time/><presentation:date-time/><presentation:date-time/></text:p>
     </draw:text-box>
+   </draw:frame>
+   <draw:frame presentation:style-name="Vivid-title" draw:layer="backgroundobjects" svg:width="29.996cm" svg:height="3.506cm" svg:x="1.666cm" svg:y="0.837cm" presentation:class="title" presentation:placeholder="true">
+    <draw:text-box/>
+   </draw:frame>
+   <draw:frame presentation:style-name="Vivid-outline1" draw:layer="backgroundobjects" svg:width="29.996cm" svg:height="12.179cm" svg:x="1.666cm" svg:y="4.914cm" presentation:class="outline" presentation:placeholder="true">
+    <draw:text-box/>
+   </draw:frame>
+   <draw:frame presentation:style-name="Vivid-title" draw:layer="backgroundobjects" svg:width="29.996cm" svg:height="3.506cm" svg:x="1.666cm" svg:y="0.837cm" presentation:class="title" presentation:placeholder="true">
+    <draw:text-box/>
+   </draw:frame>
+   <draw:frame presentation:style-name="Vivid-outline1" draw:layer="backgroundobjects" svg:width="29.996cm" svg:height="12.179cm" svg:x="1.666cm" svg:y="4.914cm" presentation:class="outline" presentation:placeholder="true">
+    <draw:text-box/>
+   </draw:frame>
+   <draw:frame presentation:style-name="Vivid-title" draw:layer="backgroundobjects" svg:width="29.996cm" svg:height="3.506cm" svg:x="1.666cm" svg:y="0.837cm" presentation:class="title" presentation:placeholder="true">
+    <draw:text-box/>
+   </draw:frame>
+   <draw:frame presentation:style-name="Vivid-outline1" draw:layer="backgroundobjects" svg:width="29.996cm" svg:height="12.179cm" svg:x="1.666cm" svg:y="4.914cm" presentation:class="outline" presentation:placeholder="true">
+    <draw:text-box/>
    </draw:frame>
    <draw:frame presentation:style-name="Vivid-title" draw:layer="backgroundobjects" svg:width="29.996cm" svg:height="3.506cm" svg:x="1.666cm" svg:y="0.837cm" presentation:class="title" presentation:placeholder="true">
     <draw:text-box/>
@@ -4170,12 +4209,12 @@
    </draw:frame>
    <draw:frame presentation:style-name="pr1" draw:layer="backgroundobjects" svg:width="10.564cm" svg:height="1.449cm" svg:x="11.296cm" svg:y="19.131cm" presentation:class="footer">
     <draw:text-box>
-     <text:p text:style-name="P5"><presentation:footer/><presentation:footer/><presentation:footer/><presentation:footer/></text:p>
+     <text:p text:style-name="P5"><presentation:footer/><presentation:footer/><presentation:footer/><presentation:footer/><presentation:footer/><presentation:footer/><presentation:footer/></text:p>
     </draw:text-box>
    </draw:frame>
    <draw:frame presentation:style-name="pr1" draw:layer="backgroundobjects" svg:width="7.765cm" svg:height="1.449cm" svg:x="23.795cm" svg:y="19.131cm" presentation:class="page-number">
     <draw:text-box>
-     <text:p text:style-name="P6"><text:page-number>&lt;number&gt;</text:page-number><text:page-number>&lt;number&gt;</text:page-number><text:page-number>&lt;number&gt;</text:page-number><text:page-number>&lt;number&gt;</text:page-number></text:p>
+     <text:p text:style-name="P6"><text:page-number>&lt;Foliennummer&gt;</text:page-number><text:page-number>&lt;Foliennummer&gt;</text:page-number><text:page-number>&lt;Foliennummer&gt;</text:page-number><text:page-number>&lt;Foliennummer&gt;</text:page-number><text:page-number>&lt;Foliennummer&gt;</text:page-number><text:page-number>&lt;Foliennummer&gt;</text:page-number><text:page-number>&lt;Foliennummer&gt;</text:page-number></text:p>
     </draw:text-box>
    </draw:frame>
    <draw:frame presentation:style-name="Vivid-title" draw:layer="backgroundobjects" svg:width="29.996cm" svg:height="12.371cm" svg:x="1.524cm" svg:y="0.837cm" presentation:class="title" presentation:placeholder="true">
@@ -4198,24 +4237,33 @@
     <draw:frame presentation:style-name="Vivid-notes" draw:layer="backgroundobjects" svg:width="15.199cm" svg:height="12.464cm" svg:x="2.9cm" svg:y="14.157cm" presentation:class="notes" presentation:placeholder="true">
      <draw:text-box/>
     </draw:frame>
+    <draw:frame presentation:style-name="Vivid-notes" draw:layer="backgroundobjects" svg:width="15.199cm" svg:height="12.464cm" svg:x="2.9cm" svg:y="14.157cm" presentation:class="notes" presentation:placeholder="true">
+     <draw:text-box/>
+    </draw:frame>
+    <draw:frame presentation:style-name="Vivid-notes" draw:layer="backgroundobjects" svg:width="15.199cm" svg:height="12.464cm" svg:x="2.9cm" svg:y="14.157cm" presentation:class="notes" presentation:placeholder="true">
+     <draw:text-box/>
+    </draw:frame>
+    <draw:frame presentation:style-name="Vivid-notes" draw:layer="backgroundobjects" svg:width="15.199cm" svg:height="12.464cm" svg:x="2.9cm" svg:y="14.157cm" presentation:class="notes" presentation:placeholder="true">
+     <draw:text-box/>
+    </draw:frame>
     <draw:frame presentation:style-name="pr2" draw:text-style-name="P2" draw:layer="backgroundobjects" svg:width="8.245cm" svg:height="1.384cm" svg:x="1cm" svg:y="1cm" presentation:class="header">
      <draw:text-box>
-      <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><presentation:header/></text:p>
+      <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><presentation:header/></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame presentation:style-name="pr2" draw:text-style-name="P4" draw:layer="backgroundobjects" svg:width="8.245cm" svg:height="1.384cm" svg:x="11.754cm" svg:y="1cm" presentation:class="date-time">
      <draw:text-box>
-      <text:p text:style-name="P3"><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><presentation:date-time/></text:p>
+      <text:p text:style-name="P3"><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><presentation:date-time/></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame presentation:style-name="pr3" draw:text-style-name="P2" draw:layer="backgroundobjects" svg:width="8.245cm" svg:height="1.384cm" svg:x="1cm" svg:y="27.315cm" presentation:class="footer">
      <draw:text-box>
-      <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><presentation:footer/></text:p>
+      <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><presentation:footer/></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame presentation:style-name="pr3" draw:text-style-name="P4" draw:layer="backgroundobjects" svg:width="8.245cm" svg:height="1.384cm" svg:x="11.754cm" svg:y="27.315cm" presentation:class="page-number">
      <draw:text-box>
-      <text:p text:style-name="P3"><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:page-number>&lt;number&gt;</text:page-number></text:p>
+      <text:p text:style-name="P3"><text:span text:style-name="T1"><text:page-number>&lt;Foliennummer&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;Foliennummer&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;Foliennummer&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;Foliennummer&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;Foliennummer&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;Foliennummer&gt;</text:page-number></text:span><text:page-number>&lt;Foliennummer&gt;</text:page-number></text:p>
      </draw:text-box>
     </draw:frame>
    </presentation:notes>
@@ -4229,17 +4277,17 @@
    </draw:frame>
    <draw:frame presentation:style-name="pr4" draw:layer="backgroundobjects" svg:width="7.765cm" svg:height="1.449cm" svg:x="1.664cm" svg:y="19.131cm" presentation:class="date-time">
     <draw:text-box>
-     <text:p><presentation:date-time/><presentation:date-time/><presentation:date-time/><presentation:date-time/></text:p>
+     <text:p><presentation:date-time/><presentation:date-time/><presentation:date-time/><presentation:date-time/><presentation:date-time/><presentation:date-time/><presentation:date-time/></text:p>
     </draw:text-box>
    </draw:frame>
    <draw:frame presentation:style-name="pr4" draw:layer="backgroundobjects" svg:width="10.564cm" svg:height="1.449cm" svg:x="11.396cm" svg:y="19.131cm" presentation:class="footer">
     <draw:text-box>
-     <text:p text:style-name="P5"><presentation:footer/><presentation:footer/><presentation:footer/><presentation:footer/></text:p>
+     <text:p text:style-name="P5"><presentation:footer/><presentation:footer/><presentation:footer/><presentation:footer/><presentation:footer/><presentation:footer/><presentation:footer/></text:p>
     </draw:text-box>
    </draw:frame>
    <draw:frame presentation:style-name="pr4" draw:layer="backgroundobjects" svg:width="7.765cm" svg:height="1.449cm" svg:x="23.895cm" svg:y="19.131cm" presentation:class="page-number">
     <draw:text-box>
-     <text:p text:style-name="P6"><text:page-number>&lt;number&gt;</text:page-number><text:page-number>&lt;number&gt;</text:page-number><text:page-number>&lt;number&gt;</text:page-number><text:page-number>&lt;number&gt;</text:page-number></text:p>
+     <text:p text:style-name="P6"><text:page-number>&lt;Foliennummer&gt;</text:page-number><text:page-number>&lt;Foliennummer&gt;</text:page-number><text:page-number>&lt;Foliennummer&gt;</text:page-number><text:page-number>&lt;Foliennummer&gt;</text:page-number><text:page-number>&lt;Foliennummer&gt;</text:page-number><text:page-number>&lt;Foliennummer&gt;</text:page-number><text:page-number>&lt;Foliennummer&gt;</text:page-number></text:p>
     </draw:text-box>
    </draw:frame>
    <presentation:notes style:page-layout-name="PM2">
@@ -4249,22 +4297,22 @@
     </draw:frame>
     <draw:frame presentation:style-name="pr5" draw:text-style-name="P2" draw:layer="backgroundobjects" svg:width="8.245cm" svg:height="1.384cm" svg:x="1cm" svg:y="1cm" presentation:class="header">
      <draw:text-box>
-      <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><presentation:header/></text:p>
+      <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><presentation:header/></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame presentation:style-name="pr5" draw:text-style-name="P4" draw:layer="backgroundobjects" svg:width="8.245cm" svg:height="1.384cm" svg:x="11.754cm" svg:y="1cm" presentation:class="date-time">
      <draw:text-box>
-      <text:p text:style-name="P3"><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><presentation:date-time/></text:p>
+      <text:p text:style-name="P3"><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><presentation:date-time/></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame presentation:style-name="pr6" draw:text-style-name="P2" draw:layer="backgroundobjects" svg:width="8.245cm" svg:height="1.384cm" svg:x="1cm" svg:y="27.315cm" presentation:class="footer">
      <draw:text-box>
-      <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><presentation:footer/></text:p>
+      <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><presentation:footer/></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame presentation:style-name="pr6" draw:text-style-name="P4" draw:layer="backgroundobjects" svg:width="8.245cm" svg:height="1.384cm" svg:x="11.754cm" svg:y="27.315cm" presentation:class="page-number">
      <draw:text-box>
-      <text:p text:style-name="P3"><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:page-number>&lt;number&gt;</text:page-number></text:p>
+      <text:p text:style-name="P3"><text:span text:style-name="T1"><text:page-number>&lt;Foliennummer&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;Foliennummer&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;Foliennummer&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;Foliennummer&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;Foliennummer&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;Foliennummer&gt;</text:page-number></text:span><text:page-number>&lt;Foliennummer&gt;</text:page-number></text:p>
      </draw:text-box>
     </draw:frame>
    </presentation:notes>
@@ -4278,17 +4326,17 @@
    </draw:frame>
    <draw:frame presentation:style-name="pr7" draw:layer="backgroundobjects" svg:width="7.765cm" svg:height="1.449cm" svg:x="1.664cm" svg:y="18.966cm" presentation:class="date-time">
     <draw:text-box>
-     <text:p><presentation:date-time/><presentation:date-time/><presentation:date-time/><presentation:date-time/></text:p>
+     <text:p><presentation:date-time/><presentation:date-time/><presentation:date-time/><presentation:date-time/><presentation:date-time/><presentation:date-time/><presentation:date-time/></text:p>
     </draw:text-box>
    </draw:frame>
    <draw:frame presentation:style-name="pr7" draw:layer="backgroundobjects" svg:width="10.564cm" svg:height="1.449cm" svg:x="11.396cm" svg:y="18.966cm" presentation:class="footer">
     <draw:text-box>
-     <text:p text:style-name="P5"><presentation:footer/><presentation:footer/><presentation:footer/><presentation:footer/></text:p>
+     <text:p text:style-name="P5"><presentation:footer/><presentation:footer/><presentation:footer/><presentation:footer/><presentation:footer/><presentation:footer/><presentation:footer/></text:p>
     </draw:text-box>
    </draw:frame>
    <draw:frame presentation:style-name="pr7" draw:layer="backgroundobjects" svg:width="6.26cm" svg:height="1.449cm" svg:x="25.524cm" svg:y="18.966cm" presentation:class="page-number">
     <draw:text-box>
-     <text:p text:style-name="P6"><text:page-number>&lt;number&gt;</text:page-number><text:page-number>&lt;number&gt;</text:page-number><text:page-number>&lt;number&gt;</text:page-number><text:page-number>&lt;number&gt;</text:page-number></text:p>
+     <text:p text:style-name="P6"><text:page-number>&lt;Foliennummer&gt;</text:page-number><text:page-number>&lt;Foliennummer&gt;</text:page-number><text:page-number>&lt;Foliennummer&gt;</text:page-number><text:page-number>&lt;Foliennummer&gt;</text:page-number><text:page-number>&lt;Foliennummer&gt;</text:page-number><text:page-number>&lt;Foliennummer&gt;</text:page-number><text:page-number>&lt;Foliennummer&gt;</text:page-number></text:p>
     </draw:text-box>
    </draw:frame>
    <presentation:notes style:page-layout-name="PM2">
@@ -4298,22 +4346,22 @@
     </draw:frame>
     <draw:frame presentation:style-name="pr8" draw:text-style-name="P2" draw:layer="backgroundobjects" svg:width="8.245cm" svg:height="1.384cm" svg:x="1cm" svg:y="1cm" presentation:class="header">
      <draw:text-box>
-      <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><presentation:header/></text:p>
+      <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><presentation:header/></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame presentation:style-name="pr8" draw:text-style-name="P4" draw:layer="backgroundobjects" svg:width="8.245cm" svg:height="1.384cm" svg:x="11.754cm" svg:y="1cm" presentation:class="date-time">
      <draw:text-box>
-      <text:p text:style-name="P3"><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><presentation:date-time/></text:p>
+      <text:p text:style-name="P3"><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><presentation:date-time/></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame presentation:style-name="pr9" draw:text-style-name="P2" draw:layer="backgroundobjects" svg:width="8.245cm" svg:height="1.384cm" svg:x="1cm" svg:y="27.315cm" presentation:class="footer">
      <draw:text-box>
-      <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><presentation:footer/></text:p>
+      <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><presentation:footer/></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame presentation:style-name="pr9" draw:text-style-name="P4" draw:layer="backgroundobjects" svg:width="8.245cm" svg:height="1.384cm" svg:x="11.754cm" svg:y="27.315cm" presentation:class="page-number">
      <draw:text-box>
-      <text:p text:style-name="P3"><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:page-number>&lt;number&gt;</text:page-number></text:p>
+      <text:p text:style-name="P3"><text:span text:style-name="T1"><text:page-number>&lt;Foliennummer&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;Foliennummer&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;Foliennummer&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;Foliennummer&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;Foliennummer&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;Foliennummer&gt;</text:page-number></text:span><text:page-number>&lt;Foliennummer&gt;</text:page-number></text:p>
      </draw:text-box>
     </draw:frame>
    </presentation:notes>
@@ -4328,13 +4376,26 @@
       <text:p>Inwieweit ist die Akzeptanz betreffend des Themas Nationalsozialismus zu gering?</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame presentation:style-name="pr10" draw:layer="layout" svg:width="31.6cm" svg:height="5.4cm" svg:x="1.2cm" svg:y="15.2cm" presentation:class="outline" presentation:user-transformed="true">
+    <draw:frame presentation:style-name="pr10" draw:layer="layout" svg:width="31.6cm" svg:height="5.8cm" svg:x="0.6cm" svg:y="14.6cm" presentation:class="outline" presentation:user-transformed="true">
      <draw:text-box>
       <text:list text:style-name="L4">
        <text:list-header>
-        <text:p>Unter anderem am Beispiel Echo</text:p>
+        <text:p><text:span text:style-name="T2">Unter anderem am Beispiel: </text:span></text:p>
        </text:list-header>
+       <text:list-item>
+        <text:p><text:span text:style-name="T2">Echo</text:span></text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p><text:span text:style-name="T2">Raptext</text:span></text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p><text:span text:style-name="T2">Jan Böhmermann</text:span></text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p><text:span text:style-name="T2"><text:s/></text:span><text:span text:style-name="T2">Postillon</text:span><text:span text:style-name="T3"><text:tab/></text:span></text:p>
+       </text:list-item>
       </text:list>
+      <text:p/>
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp4" presentation:use-date-time-name="dtd1">
@@ -4344,11 +4405,35 @@
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page2" draw:style-name="dp6" draw:master-page-name="Vivid1" presentation:presentation-page-layout-name="AL2T1" presentation:use-date-time-name="dtd1">
+   <draw:page draw:name="page2" draw:style-name="dp5" draw:master-page-name="Vivid1" presentation:presentation-page-layout-name="AL2T1" presentation:use-date-time-name="dtd1">
+    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+    <draw:frame presentation:style-name="pr12" draw:layer="layout" svg:width="29.996cm" svg:height="3.506cm" svg:x="1.664cm" svg:y="0.337cm" presentation:class="title" presentation:placeholder="true" presentation:user-transformed="true">
+     <draw:text-box/>
+    </draw:frame>
+    <draw:frame presentation:style-name="pr13" draw:layer="layout" svg:width="29.832cm" svg:height="12.954cm" svg:x="1.664cm" svg:y="5.334cm" presentation:class="outline" presentation:user-transformed="true">
+     <draw:text-box>
+      <text:list text:style-name="L5">
+       <text:list-item>
+        <text:p>„Darf man über Hitler lachen? - Humor und Satire als Mittel der Auseinandersetzung mit dem Nationalsozialismus sowie aktuellem Rechtsextremismus“ (Lernen aus der Geschichte)</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p/>
+       </text:list-item>
+      </text:list>
+     </draw:text-box>
+    </draw:frame>
+    <presentation:notes draw:style-name="dp4" presentation:use-date-time-name="dtd1">
+     <draw:page-thumbnail draw:style-name="gr3" draw:layer="layout" svg:width="12.292cm" svg:height="10.386cm" svg:x="4.352cm" svg:y="3.104cm" draw:page-number="2" presentation:class="page"/>
+     <draw:frame presentation:style-name="pr14" draw:text-style-name="P8" draw:layer="layout" svg:width="15.199cm" svg:height="12.464cm" svg:x="2.9cm" svg:y="14.157cm" presentation:class="notes" presentation:placeholder="true" presentation:user-transformed="true">
+      <draw:text-box/>
+     </draw:frame>
+    </presentation:notes>
+   </draw:page>
+   <draw:page draw:name="page3" draw:style-name="dp6" draw:master-page-name="Vivid1" presentation:presentation-page-layout-name="AL2T1" presentation:use-date-time-name="dtd1">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame presentation:style-name="pr12" draw:layer="layout" svg:width="29.996cm" svg:height="3.506cm" svg:x="1.664cm" svg:y="0.337cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
-      <text:p>Satiere</text:p>
+      <text:p>Satire</text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame presentation:style-name="pr13" draw:layer="layout" svg:width="29.832cm" svg:height="12.954cm" svg:x="1.664cm" svg:y="5.334cm" presentation:class="outline" presentation:user-transformed="true">
@@ -4363,24 +4448,11 @@
        <text:list-item>
         <text:p>überspitzte Darstellungen</text:p>
        </text:list-item>
+       <text:list-item>
+        <text:p>Was ist akzeptabel? Was geht zu weit?</text:p>
+       </text:list-item>
       </text:list>
      </draw:text-box>
-    </draw:frame>
-    <presentation:notes draw:style-name="dp4" presentation:use-date-time-name="dtd1">
-     <draw:page-thumbnail draw:style-name="gr3" draw:layer="layout" svg:width="12.292cm" svg:height="10.386cm" svg:x="4.352cm" svg:y="3.104cm" draw:page-number="2" presentation:class="page"/>
-     <draw:frame presentation:style-name="pr14" draw:text-style-name="P8" draw:layer="layout" svg:width="15.199cm" svg:height="12.464cm" svg:x="2.9cm" svg:y="14.157cm" presentation:class="notes" presentation:placeholder="true" presentation:user-transformed="true">
-      <draw:text-box/>
-     </draw:frame>
-    </presentation:notes>
-   </draw:page>
-   <draw:page draw:name="page3" draw:style-name="dp5" draw:master-page-name="Vivid1" presentation:presentation-page-layout-name="AL2T1" presentation:use-date-time-name="dtd1">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
-    <draw:frame presentation:style-name="pr12" draw:layer="layout" svg:width="29.996cm" svg:height="3.506cm" svg:x="1.664cm" svg:y="0.337cm" presentation:class="title" presentation:placeholder="true">
-     <draw:text-box/>
-    </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="29.832cm" svg:height="12.954cm" svg:x="1.664cm" svg:y="5.334cm" presentation:class="object">
-     <draw:plugin xlink:href="" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="application/vnd.sun.star.media"><draw:param draw:name="Loop" draw:value="false"/><draw:param draw:name="Mute" draw:value="false"/><draw:param draw:name="VolumeDB" draw:value="0"/>
-     </draw:plugin>
     </draw:frame>
     <presentation:notes draw:style-name="dp4" presentation:use-date-time-name="dtd1">
      <draw:page-thumbnail draw:style-name="gr3" draw:layer="layout" svg:width="12.292cm" svg:height="10.386cm" svg:x="4.352cm" svg:y="3.104cm" draw:page-number="3" presentation:class="page"/>
@@ -4391,21 +4463,293 @@
    </draw:page>
    <draw:page draw:name="page4" draw:style-name="dp5" draw:master-page-name="Vivid1" presentation:presentation-page-layout-name="AL2T1" presentation:use-date-time-name="dtd1">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
-    <draw:frame presentation:style-name="pr12" draw:layer="layout" svg:width="29.996cm" svg:height="3.506cm" svg:x="1.664cm" svg:y="0.337cm" presentation:class="title" presentation:placeholder="true" presentation:user-transformed="true">
-     <draw:text-box/>
+    <draw:frame presentation:style-name="pr12" draw:layer="layout" svg:width="29.996cm" svg:height="3.506cm" svg:x="1.664cm" svg:y="0.337cm" presentation:class="title" presentation:user-transformed="true">
+     <draw:text-box>
+      <text:p>Postillon</text:p>
+     </draw:text-box>
     </draw:frame>
     <draw:frame presentation:style-name="pr13" draw:text-style-name="P10" draw:layer="layout" svg:width="29.832cm" svg:height="12.954cm" svg:x="1.664cm" svg:y="5.334cm" presentation:class="outline" presentation:user-transformed="true">
      <draw:text-box>
       <text:list text:style-name="L5">
        <text:list-header>
-        <text:p><text:span text:style-name="T2">Potsdam (dpo) - &quot;Nicht mehr lange&quot;, säuselt AfD-Spitzenkandidat Alexander Gauland, während er vor seinem Kleiderschrank steht und eine exzellent gepflegte Wehrmachtsuniform streichelt. &quot;Bald darfst du raus und alle werden dich schön finden.&quot; </text:span></text:p>
+        <text:p><text:span text:style-name="T3">Potsdam (dpo) - &quot;Nicht mehr lange&quot;, säuselt AfD-Spitzenkandidat Alexander Gauland, während er vor seinem Kleiderschrank steht und eine exzellent gepflegte Wehrmachtsuniform streichelt. &quot;Bald darfst du raus und alle werden dich schön finden.&quot; </text:span></text:p>
        </text:list-header>
       </text:list>
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp4" presentation:use-date-time-name="dtd1">
      <draw:page-thumbnail draw:style-name="gr3" draw:layer="layout" svg:width="12.292cm" svg:height="10.386cm" svg:x="4.352cm" svg:y="3.104cm" draw:page-number="4" presentation:class="page"/>
-     <draw:frame presentation:style-name="pr15" draw:text-style-name="P9" draw:layer="layout" svg:width="15.199cm" svg:height="12.464cm" svg:x="2.9cm" svg:y="14.157cm" presentation:class="notes" presentation:placeholder="true" presentation:user-transformed="true">
+     <draw:frame presentation:style-name="pr14" draw:text-style-name="P8" draw:layer="layout" svg:width="15.199cm" svg:height="12.464cm" svg:x="2.9cm" svg:y="14.157cm" presentation:class="notes" presentation:placeholder="true" presentation:user-transformed="true">
+      <draw:text-box/>
+     </draw:frame>
+    </presentation:notes>
+   </draw:page>
+   <draw:page draw:name="page5" draw:style-name="dp5" draw:master-page-name="Vivid1" presentation:presentation-page-layout-name="AL2T1" presentation:use-date-time-name="dtd1">
+    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+    <draw:frame presentation:style-name="pr12" draw:layer="layout" svg:width="29.996cm" svg:height="3.506cm" svg:x="1.664cm" svg:y="0.337cm" presentation:class="title" presentation:placeholder="true" presentation:user-transformed="true">
+     <draw:text-box/>
+    </draw:frame>
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="29.832cm" svg:height="12.954cm" svg:x="1.664cm" svg:y="5.334cm" presentation:class="object" presentation:user-transformed="true">
+     <draw:plugin xlink:href="" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="application/vnd.sun.star.media"><draw:param draw:name="Loop" draw:value="false"/><draw:param draw:name="Mute" draw:value="false"/><draw:param draw:name="VolumeDB" draw:value="0"/>
+     </draw:plugin>
+    </draw:frame>
+    <presentation:notes draw:style-name="dp4" presentation:use-date-time-name="dtd1">
+     <draw:page-thumbnail draw:style-name="gr3" draw:layer="layout" svg:width="12.292cm" svg:height="10.386cm" svg:x="4.352cm" svg:y="3.104cm" draw:page-number="5" presentation:class="page"/>
+     <draw:frame presentation:style-name="pr14" draw:text-style-name="P11" draw:layer="layout" svg:width="15.199cm" svg:height="12.464cm" svg:x="2.9cm" svg:y="14.157cm" presentation:class="notes" presentation:placeholder="true" presentation:user-transformed="true">
+      <draw:text-box/>
+     </draw:frame>
+    </presentation:notes>
+   </draw:page>
+   <draw:page draw:name="page6" draw:style-name="dp5" draw:master-page-name="Vivid1" presentation:presentation-page-layout-name="AL2T1" presentation:use-date-time-name="dtd1">
+    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+    <draw:frame presentation:style-name="pr12" draw:layer="layout" svg:width="29.996cm" svg:height="3.506cm" svg:x="1.664cm" svg:y="0.337cm" presentation:class="title" presentation:user-transformed="true">
+     <draw:text-box>
+      <text:p>Ziel der Satiere/Textes/Ansprache</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame presentation:style-name="pr13" draw:layer="layout" svg:width="29.832cm" svg:height="12.954cm" svg:x="1.664cm" svg:y="5.334cm" presentation:class="outline" presentation:user-transformed="true">
+     <draw:text-box>
+      <text:list text:style-name="L5">
+       <text:list-item>
+        <text:p>Soll es informieren?</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p>Soll es erinnern?</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p>Verharmlost es die Ereignisse?</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p/>
+       </text:list-item>
+      </text:list>
+     </draw:text-box>
+    </draw:frame>
+    <presentation:notes draw:style-name="dp4" presentation:use-date-time-name="dtd1">
+     <draw:page-thumbnail draw:style-name="gr3" draw:layer="layout" svg:width="12.292cm" svg:height="10.386cm" svg:x="4.352cm" svg:y="3.104cm" draw:page-number="6" presentation:class="page"/>
+     <draw:frame presentation:style-name="pr14" draw:text-style-name="P8" draw:layer="layout" svg:width="15.199cm" svg:height="12.464cm" svg:x="2.9cm" svg:y="14.157cm" presentation:class="notes" presentation:placeholder="true" presentation:user-transformed="true">
+      <draw:text-box/>
+     </draw:frame>
+    </presentation:notes>
+   </draw:page>
+   <draw:page draw:name="page7" draw:style-name="dp5" draw:master-page-name="Vivid1" presentation:presentation-page-layout-name="AL2T1" presentation:use-date-time-name="dtd1">
+    <draw:frame presentation:style-name="pr12" draw:layer="layout" svg:width="29.996cm" svg:height="3.506cm" svg:x="1.664cm" svg:y="0.337cm" presentation:class="title" presentation:user-transformed="true">
+     <draw:text-box>
+      <text:p>Echo 2018</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame presentation:style-name="pr13" draw:text-style-name="P14" draw:layer="layout" svg:width="29.832cm" svg:height="12.954cm" svg:x="1.664cm" svg:y="5.334cm" presentation:class="outline" presentation:user-transformed="true">
+     <draw:text-box>
+      <text:list text:style-name="L5">
+       <text:list-item>
+        <text:p><text:span text:style-name="T4">Wie wurde &quot;Mein Körper definierter als von Auschwitz-Insassen.&quot; (&quot;0815&quot;) benutzt?</text:span></text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P12"><text:span text:style-name="T4">„</text:span><text:span text:style-name="T4">Bezug nehmend auf den Artikel der Bild Zeitung möchten wir deutlich machen, dass wir keinerlei Minderheiten oder Religionen diskriminieren wollen.</text:span></text:p>
+        <text:p text:style-name="P12"><text:span text:style-name="T4">In dem zitierten Satz ‚Mein Körper ist definierter als von Auschwitzinsassen’ handelt es sich um einen harten Battle Rap Vergleich und nicht um eine politische Äußerung.</text:span></text:p>
+        <text:p text:style-name="P13"><text:span text:style-name="T4">Denn wir distanzieren uns von jeglicher Form des Antisemitismus oder Hass gegen Minderheiten.“ (Fahrid Bang)</text:span></text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P13"><text:span text:style-name="T4">Deren Musikvideos teilweise über 3 Millionen Views</text:span></text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P13"><text:span text:style-name="T4">„</text:span><text:span text:style-name="T4">Die Sprache des Battle-Rap ist hart und verbale Provokationen sind ein typisches Stilmittel. Die Kunst- und Meinungsfreiheit ist ein hohes Gut, angesichts der Textzeilen in ‚0815‘ haben wir aber tatsächlich den Ethik-Beirat gebeten, sich mit dem Produkt zu beschäftigen.“ (Rebecka Heinz, Echo-Geschätsführerin in der &quot;Bild&quot;) </text:span></text:p>
+       </text:list-item>
+      </text:list>
+     </draw:text-box>
+    </draw:frame>
+    <presentation:notes draw:style-name="dp4" presentation:use-date-time-name="dtd1">
+     <draw:page-thumbnail draw:style-name="gr3" draw:layer="layout" svg:width="12.292cm" svg:height="10.386cm" svg:x="4.352cm" svg:y="3.104cm" draw:page-number="7" presentation:class="page"/>
+     <draw:frame presentation:style-name="pr14" draw:text-style-name="P11" draw:layer="layout" svg:width="15.199cm" svg:height="12.464cm" svg:x="2.9cm" svg:y="14.157cm" presentation:class="notes" presentation:placeholder="true" presentation:user-transformed="true">
+      <draw:text-box/>
+     </draw:frame>
+    </presentation:notes>
+   </draw:page>
+   <draw:page draw:name="page8" draw:style-name="dp5" draw:master-page-name="Vivid1" presentation:presentation-page-layout-name="AL2T1" presentation:use-date-time-name="dtd1">
+    <draw:frame presentation:style-name="pr12" draw:layer="layout" svg:width="29.996cm" svg:height="3.506cm" svg:x="1.664cm" svg:y="0.337cm" presentation:class="title" presentation:user-transformed="true">
+     <draw:text-box>
+      <text:p>Die Akzeptanz der verschiedene Altersgruppen</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame presentation:style-name="pr13" draw:text-style-name="P15" draw:layer="layout" svg:width="29.832cm" svg:height="12.954cm" svg:x="1.664cm" svg:y="5.334cm" presentation:class="outline" presentation:user-transformed="true">
+     <draw:text-box>
+      <text:list text:style-name="L5">
+       <text:list-header>
+        <text:p text:style-name="P12"><text:span text:style-name="T4">Kinder und Jugendliche:</text:span></text:p>
+        <text:list>
+         <text:list-item>
+          <text:list>
+           <text:list-item>
+            <text:list>
+             <text:list-item>
+              <text:list>
+               <text:list-item>
+                <text:list>
+                 <text:list-item>
+                  <text:list>
+                   <text:list-item>
+                    <text:list>
+                     <text:list-item>
+                      <text:p><text:span text:style-name="T4">Besonders hoch bei Rap/Musik</text:span></text:p>
+                     </text:list-item>
+                     <text:list-item>
+                      <text:p><text:span text:style-name="T4">Bis zu einem bestimmten Alter</text:span></text:p>
+                     </text:list-item>
+                     <text:list-item>
+                      <text:p><text:span text:style-name="T4">Fehlt Aufklärung?</text:span></text:p>
+                     </text:list-item>
+                    </text:list>
+                   </text:list-item>
+                  </text:list>
+                 </text:list-item>
+                </text:list>
+               </text:list-item>
+              </text:list>
+             </text:list-item>
+            </text:list>
+           </text:list-item>
+          </text:list>
+         </text:list-item>
+        </text:list>
+        <text:p text:style-name="P12"><text:span text:style-name="T4"/></text:p>
+        <text:p text:style-name="P12"><text:span text:style-name="T4">Junge Erwachsene/ Erwachsene:</text:span></text:p>
+        <text:list>
+         <text:list-item>
+          <text:list>
+           <text:list-item>
+            <text:list>
+             <text:list-item>
+              <text:list>
+               <text:list-item>
+                <text:list>
+                 <text:list-item>
+                  <text:list>
+                   <text:list-item>
+                    <text:list>
+                     <text:list-item text:start-value="1">
+                      <text:p><text:span text:style-name="T4">Satire ist akzeptiert, wenn sie auf Missstände aufmerksam macht.</text:span></text:p>
+                     </text:list-item>
+                     <text:list-item>
+                      <text:p><text:span text:style-name="T4">Akzeptanz des Themas in Musik gering</text:span></text:p>
+                     </text:list-item>
+                     <text:list-item>
+                      <text:p><text:span text:style-name="T4">Wunsch nach sachlicher Behandelung des Themas und nach emotionaler Vermittlung der Vorkommnisse.</text:span></text:p>
+                     </text:list-item>
+                    </text:list>
+                   </text:list-item>
+                  </text:list>
+                 </text:list-item>
+                </text:list>
+               </text:list-item>
+              </text:list>
+             </text:list-item>
+            </text:list>
+           </text:list-item>
+          </text:list>
+         </text:list-item>
+        </text:list>
+        <text:p text:style-name="P12"><text:span text:style-name="T4"/></text:p>
+        <text:p text:style-name="P12"><text:span text:style-name="T4">Senioren:</text:span></text:p>
+        <text:list>
+         <text:list-item>
+          <text:list>
+           <text:list-item>
+            <text:list>
+             <text:list-item>
+              <text:list>
+               <text:list-item>
+                <text:list>
+                 <text:list-item>
+                  <text:list>
+                   <text:list-item>
+                    <text:list>
+                     <text:list-item text:start-value="1">
+                      <text:p><text:span text:style-name="T4"/></text:p>
+                     </text:list-item>
+                     <text:list-item>
+                      <text:p><text:span text:style-name="T4"/></text:p>
+                     </text:list-item>
+                    </text:list>
+                   </text:list-item>
+                  </text:list>
+                 </text:list-item>
+                </text:list>
+               </text:list-item>
+              </text:list>
+             </text:list-item>
+            </text:list>
+           </text:list-item>
+          </text:list>
+         </text:list-item>
+        </text:list>
+        <text:p text:style-name="P12"><text:span text:style-name="T4"/></text:p>
+        <text:list>
+         <text:list-item>
+          <text:list>
+           <text:list-item>
+            <text:list>
+             <text:list-item>
+              <text:list>
+               <text:list-item>
+                <text:list>
+                 <text:list-item>
+                  <text:list>
+                   <text:list-item>
+                    <text:list>
+                     <text:list-header>
+                      <text:p><text:span text:style-name="T4"/></text:p>
+                     </text:list-header>
+                    </text:list>
+                   </text:list-item>
+                  </text:list>
+                 </text:list-item>
+                </text:list>
+               </text:list-item>
+              </text:list>
+             </text:list-item>
+            </text:list>
+           </text:list-item>
+          </text:list>
+         </text:list-item>
+        </text:list>
+       </text:list-header>
+      </text:list>
+     </draw:text-box>
+    </draw:frame>
+    <presentation:notes draw:style-name="dp4" presentation:use-date-time-name="dtd1">
+     <draw:page-thumbnail draw:style-name="gr3" draw:layer="layout" svg:width="12.292cm" svg:height="10.386cm" svg:x="4.352cm" svg:y="3.104cm" draw:page-number="8" presentation:class="page"/>
+     <draw:frame presentation:style-name="pr14" draw:text-style-name="P11" draw:layer="layout" svg:width="15.199cm" svg:height="12.464cm" svg:x="2.9cm" svg:y="14.157cm" presentation:class="notes" presentation:placeholder="true" presentation:user-transformed="true">
+      <draw:text-box/>
+     </draw:frame>
+    </presentation:notes>
+   </draw:page>
+   <draw:page draw:name="page9" draw:style-name="dp5" draw:master-page-name="Vivid1" presentation:presentation-page-layout-name="AL2T1" presentation:use-date-time-name="dtd1">
+    <draw:frame presentation:style-name="pr12" draw:layer="layout" svg:width="29.996cm" svg:height="3.506cm" svg:x="1.664cm" svg:y="0.337cm" presentation:class="title" presentation:user-transformed="true">
+     <draw:text-box>
+      <text:p>Arten mit dem Nationalsozialismus umzugehen</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame presentation:style-name="pr13" draw:layer="layout" svg:width="29.832cm" svg:height="12.954cm" svg:x="1.664cm" svg:y="5.334cm" presentation:class="outline" presentation:user-transformed="true">
+     <draw:text-box>
+      <text:list text:style-name="L5">
+       <text:list-item>
+        <text:p>Historisch (Fachlich)</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p>Satire (lustig)</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p>Raptexten, andere Musik (Verharmlosung, Witz)</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p>Musik u.A Rap (mit einer Aussage, Ernst)</text:p>
+       </text:list-item>
+      </text:list>
+     </draw:text-box>
+    </draw:frame>
+    <presentation:notes draw:style-name="dp4" presentation:use-date-time-name="dtd1">
+     <draw:page-thumbnail draw:style-name="gr3" draw:layer="layout" svg:width="12.292cm" svg:height="10.386cm" svg:x="4.352cm" svg:y="3.104cm" draw:page-number="9" presentation:class="page"/>
+     <draw:frame presentation:style-name="pr14" draw:text-style-name="P11" draw:layer="layout" svg:width="15.199cm" svg:height="12.464cm" svg:x="2.9cm" svg:y="14.157cm" presentation:class="notes" presentation:placeholder="true" presentation:user-transformed="true">
       <draw:text-box/>
      </draw:frame>
     </presentation:notes>
